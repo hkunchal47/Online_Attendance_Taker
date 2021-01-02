@@ -11,7 +11,7 @@
 
 ## Examples:-
 ### Case 1:
-<img src="https://github.com/hkunchal47/Online_Attendance_Taker/Example/Test1.jpg">
+<img src="https://github.com/hkunchal47/Online_Attendance_Taker/blob/master/Example/Test1.JPG">
 
 
 
