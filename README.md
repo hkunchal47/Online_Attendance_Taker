@@ -11,10 +11,8 @@
 
 ## Examples:-
 ### Case 1:
-<img src="https://github.com/hkunchal47/Online_Attendance_Taker/Example/test1.jpg">
+<img src="https://github.com/hkunchal47/Online_Attendance_Taker/Example/Test1.jpg">
 
-### Case 2:
-<img src="https://github.com/hkunchal47/Online_Attendance_Taker/Example/test2.jpg">
 
 
 ### What steps you have to follow??
